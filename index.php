@@ -1,7 +1,7 @@
 <?php 
-
+// arquivo do repositorio hcode/////////
 require_once("config.php");
-
+$comentario=123;
 //Carrega um usuário
 //$root = new Usuario();
 //$root->loadbyId(3);
